@@ -1,19 +1,19 @@
 #Integers
 
-""" a = 34
+a = 34
 b = 76
 
 print(a+b)
 
 print(a/b)
-print(a//b) L shift + alt + a"""
+print(a//b)
 
 #Float
 
-""" f =23.89
+f =23.89
 p = 45.32
 
-print(f * p) """
+print(f * p)
 
 #Boolean
 
